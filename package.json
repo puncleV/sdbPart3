@@ -1,0 +1,10 @@
+{
+	"name": "SDB_part_3",
+	"version": "2.2.8",
+	"description": "MongoDB version of the db",
+	"main": "app.js",
+	"dependencies": {
+		"mongodb": "*"
+	},
+	"autors": ["Kozlov Victor", "Dmitry Bezmelnicin"]
+}
